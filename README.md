@@ -1,7 +1,7 @@
 # Hi, I'm Yuqing Huang! 👋
 
 - MS in Business Analytics @ UC Davis
-- Ex-intern across Entertainment, Education Research, Airline
+- 2 years+ Experiences across Entertainment, Education Research, Airline 
 - Data Analyst focused on Consumer Behavior & Product Insight
 - Assionate about blending storytelling with data science
 
