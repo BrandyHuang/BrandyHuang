@@ -52,7 +52,7 @@
 *MS in Business Analytics*  
 2024 – 2025
 
-**Macau University of Science and Technology (Undergraduate)**  
+**Macau University of Science and Technology**  
 *BS in Hotel Management*  
 2019 – 2023
 
