@@ -56,7 +56,17 @@
 *BS in Hotel Management*  
 2019 – 2023
 
+## 🧰 Skills
+**Programming & Tools**  
+Python (pandas, scikit-learn, matplotlib, seaborn) • R • SQL • dbt • Git • Excel • AWS • GCP • Tableau • Looker Studio
+
+**Machine Learning**  
+Regression • Classification • Clustering • Dimensionality Reduction • Time Series Forecasting • Model Evaluation
+
+**Analytics & Business**  
+A/B Testing • Causal Inference • Funnel Analysis • Consumer Segmentation • KPI Dashboards • Data Storytelling
+
 ## 📬 Let’s Connect!
 
-[LinkedIn](https://linkedin.com/in/yq-huang) • [Portfolio](https://your-website.com) • [Email](mailto:yqhuang00@gmail.com)
+[LinkedIn](https://linkedin.com/in/yq-huang) • [Portfolio](https://brandyhuang.github.io/) • [Email](mailto:yqhuang00@gmail.com)
 
