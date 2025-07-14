@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Yuqing Huang! 👋
 
-<!--
-**BrandyHuang/BrandyHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- MS in Business Analytics @ UC Davis
+- Ex-intern across Entertainment, Education Research, Airline
+- Data Analyst focused on Consumer Behavior & Product Insight
+- Assionate about blending storytelling with data science
 
-Here are some ideas to get you started:
+## 💼 Professional Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Angel Flight West – Lead Data Analyst**  
+  Developed a personalized recommendation system for volunteer pilots, increasing engagement by 10%.
+
+- **Galaxy Entertainment Group – Operation Analyst Intern**  
+  Built 10+ Tableau dashboards to visualize real-time inventory logs.
+
+- **Macau University of Science and Technology – Research Data Analyst**  
+  Applied word frequency and key word clustering to study consumer behavoir across family-target restaurants.
+
+## 📬 Let’s Connect!
+
+[LinkedIn](https://linkedin.com/in/yuqing-huang) • [Portfolio](https://your-website.com) • [Email](mailto:yqhuang00@gmail.com)
+
