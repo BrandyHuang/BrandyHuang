@@ -58,5 +58,5 @@
 
 ## 📬 Let’s Connect!
 
-[LinkedIn](https://linkedin.com/in/yuqing-huang) • [Portfolio](https://your-website.com) • [Email](mailto:yqhuang00@gmail.com)
+[LinkedIn](https://linkedin.com/in/yq-huang) • [Portfolio](https://your-website.com) • [Email](mailto:yqhuang00@gmail.com)
 
