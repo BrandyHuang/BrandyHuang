@@ -16,6 +16,46 @@
 - **Macau University of Science and Technology – Research Data Analyst**  
   Applied word frequency and key word clustering to study consumer behavoir across family-target restaurants.
 
+
+## 🔧 Key Projects
+
+- **[Retention Analysis of Instacart E-Commerce consumers](https://github.com/BrandyHuang/Instacart_User_Retention_Analysis)**  
+  Segmented consumers based on first-time purchase behaviors and performed survival analysis of each segment.
+
+- **[Predictive Analysis on Consumer Transaction Behavior](https://github.com/BrandyHuang/Predictive-Analysis-on-Consumer-Transaction-Behavior)**  
+  Analyzed user purchase behaviors and applied logistic regression to predict transaction outcomes.
+
+- **[Business Open Toolkit](https://github.com/BrandyHuang/Business-Open-Toolkit)**  
+  Built a Python toolkit for quick EDA, visualization, and KPI calculation in business data.
+
+- **[Diabetes ML Model](https://github.com/BrandyHuang/Diabetes-Analysis-ML-Model)**  
+  Implemented classification models (Random Forest, SVM) on medical data to predict diabetes risk.
+
+- **[Data Job Salaries Analysis](https://github.com/BrandyHuang/Data-Job-Salaries-Analysis)**  
+  Conducted salary benchmarking by role, location, and experience using pandas and seaborn.
+
+
+## 🧠 Leadership & Involvement
+
+- **Student Ambassador**, UC Davis MSBA  
+  Organized program Holiday events and networking events for 100+ students.
+
+- **Project Manager**, Angel Flight West
+  Led a 5-person team to build a recommendation system using content-based filtering method.
+
+- **Undersecretary**, Event Planning Team @ Macau Youth Artistic Ability Volunteer Association
+  Led a 15-person team to organize social events(Senior visit, cooking workshop, etc) for macao community.
+  
+## 🎓 Education
+
+**University of California, Davis**  
+*MS in Business Analytics*  
+2024 – 2025
+
+**Macau University of Science and Technology (Undergraduate)**  
+*BS in Hotel Management*  
+2019 – 2023
+
 ## 📬 Let’s Connect!
 
 [LinkedIn](https://linkedin.com/in/yuqing-huang) • [Portfolio](https://your-website.com) • [Email](mailto:yqhuang00@gmail.com)
