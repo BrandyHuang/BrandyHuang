@@ -54,7 +54,6 @@
 
 **Macau University of Science and Technology**  
 *BS in Hotel Management*  
-2019 – 2023
 
 ## 🧰 Skills
 **Programming & Tools**  
