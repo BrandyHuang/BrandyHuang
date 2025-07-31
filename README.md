@@ -18,6 +18,8 @@
 
 
 ## 🔧 Key Projects
+- **[Youtube Vedio Analysis](https://github.com/BrandyHuang/Youtube_Video_Analysis)**  
+  Analyzed video and channel performance based on five key metics.
 
 - **[Retention Analysis of Instacart E-Commerce consumers](https://github.com/BrandyHuang/Instacart_User_Retention_Analysis)**  
   Segmented consumers based on first-time purchase behaviors and performed survival analysis of each segment.
